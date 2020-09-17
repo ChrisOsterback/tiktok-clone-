@@ -7,7 +7,7 @@ import Cors from 'cors'
 import Videos from './dbModel.js'
 
 
-const api_mongo = require('./config.json');
+import * as api_mongo from './config.json';
 const token = api_mongo.token;
 // app config
 const app = express();
