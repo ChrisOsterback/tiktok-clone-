@@ -1,4 +1,4 @@
 #Tiktok-clone
 
 
-Another frontend project
+Another frontend project. Just tiktok really. React practice.
